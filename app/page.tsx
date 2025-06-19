@@ -38,7 +38,7 @@ export default function Home() {
               <span className="font-semibold text-blue-700">รหัสนักศึกษา:</span> 652021061
             </p>
             <p>
-              <span className="font-semibold text-blue-700">คณะ:</span> วิทยาศาสตร์
+              <span className="font-semibold text-blue-700">คณะ:</span> วิทยาศาสตร์และนวัตกรรมดิจิทัล
             </p>
             <p>
               <span className="font-semibold text-blue-700">สาขา:</span> วิทยาการคอมพิวเตอร์
